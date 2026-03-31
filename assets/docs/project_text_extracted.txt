@@ -1,0 +1,617 @@
+BONAFIDE CERTIFICATE
+It is certified that this project I II  titled “ UPGRADING OF WATER SUPPLY AND DISTRIBUTION SYSTEM OF NIRMALPOKHARI, BAGMARA, PUDI SANA SAHARI KHANEPANI ” is the  bonafide  work of –  Mr. Dipesh Bahadur Hamal, Mr.  Hemanta  Aryal , Mr.  Krish  Prasad Jaiswal, Mr. Prasanna Pahari, Mr. Saurav  Giri , Mr.  Sujan  Lamichhane  and Mr.  Suyog  Poudel  who carried out the  project work under my supervision. It is further certified that to the best of my knowledge the work reported herein doesn’t form part of any other thesis or dissertation or project on the basis of which a degree or award was conferred on an earlier occasion on this or any other candidate.
+________________              _________________
+Er . Sanjay  Baral    Dr.  Binay  Kumar Mishra
+Project Coordinator   Project  Supervisor
+Lecturer     Lecturer
+School of Engineering                        School of Engineering
+________________
+Er .  Santosh  Khanal
+Project  Supervisor
+Lecturer
+School of Engineering
+ACKNOWLEDGEMENT
+We would like to express our deep sense of gratitude to  our project  supervisor   Professor  Dr.  Binay  Kumar Mishra and  Er.Santosh  Khanal  of SOE, Faculty of Science and Technology, Pokhara University,  Kaski  for  their  continuous guidance and encouragement. It would have been impossible to accomplish this project without  their  valuable suggestion.
+We would like to express deepest thanks to Director of School of Engineering  Er . Om Prakash  Giri ,  Er . Sanjay  Baral , Project Co- ordinator  and Program Coordinator of  BCRE  and  Er .  Saugat  Tiwari,  Program coordinator  of Civil Engineering  of Pokhara University for giving us this opportunity.
+We are indebted with gra t itude to Engineers and Staffs working in Sano  Sahari  Khanepani , who has been a constant support system from day one, providing us with secondary  datas  and safe working environment and access to our study area. We are very grateful for their guidance which led to the successful completion of the project.
+Last but not least, we would like to  thank to all our classmates, faculty members and locals who co-operated and helped us to carry out this project. We have no valuable words to express our gratitude, but our heart is full of the favors received from every person.
+Dipesh Bahadur Hamal (2021-1-51-0057)
+Hemanta  Aryal  (2021-1-51-0060)
+Krish  Prasad Jaiswal (2021-1-51-0065)
+Prasanna Pahari (2021-1-51-0070)
+Saurav  Giri  (2021-1-51-0083)
+Sujan  Lamichhane  (2021-1-51-0087)
+Suyog  Poudel (2021-1-51-0091)
+ABSTRACT
+This project focuses on the  Upgrading of  water supply and distribution system  by Sano  S ahari  K hanepani  serving the areas of  Nirmalpokhari ,  Bagmara , and  Pud .  The aim is to  fulfill the water demand  of  current and projected population demands, considering future growth and consumption trends. The design process includes  site survey,  demand analysis , supply calculation, design of  suitabl e  water treatment structure before distribution .  After survey the  existing  roughing filter was not able to treat required amount of water in a day which became obstacle resulting insufficient supply of water.  The water demand in the area was approximately 720cu.m per day but the roughing filter having dimension 20m*7m*1.2m having 4 chambers in total was only able to treat 460lpd which was clearly not sufficient.  The people were forced to use other sources of water and sometimes they had to buy water.  So  to fulfill supply of remaining 260cu.m of water per day  designing of  new  roughing filter  was necessary.  We designed the roughing filter with dimensions 9m*6m*1.2m which  could filter about 310cu.m of water per day and 9m*5m*1.2m which could filter about 260cu.m of water per day .  Among two alternative designs one will be considered  ensuring efficiency, safety, and cost-effectiveness. This report provides technical details necessary for the implementation of a sustainable water  treatment  solution, contributing to  meet the daily demand of water in  Bagmara  area.
+Keywords:  water supply,  demand,  distribution,  Bagmara , roughing filter, treatment  of water
+TABLE OF CONTENTS
+BONAFIDE CERTIFICATE I
+ACKNOWLEDGEMENT II
+ABSTRACT III
+TABLE OF CONTENTS IV
+TABLE OF FIGURES VI
+LIST OF TABLE VII
+LIST OF ABBREVIATION VIII
+CHAPTER ONE 1
+INTRODUCTION 1
+1.1 Background 1
+1.2 Components of Water Supply System 2
+1.2.1. Source: 2
+1.2.2. Intake structures 2
+1.2.3. Collection Chamber: 3
+1.2.4. Pumping Stations 3
+1.2.5. Distribution Chamber: 4
+1.2.6. Transmission Mains: 4
+1.2.7. Interruption chamber [IC]: 5
+1.2.8. Treatment Plants: 6
+1.2.9. Storage Reservoirs: 7
+1.2.10. Control Valves: 8
+1.2.11. Valve Chamber: 8
+1.2.12. Distribution Network: 9
+1.2.13. Break Pressure Tank [BPT] 10
+1.2.14. Public Stand Post: 10
+1.3 Basic Principles of Water Supply Distribution System 11
+1.4 Methods of water distribution 11
+1.5 History of water supply and distribution in Nepal 11
+1.6 Objectives 12
+1.6.1 General  Objective: 12
+1.6.2 Specific Objectives: 13
+1.7 Study Area 13
+1.8 Limitations 15
+CHAPTER TWO 1
+LITERATURE REVIEW 1
+CHAPTER 3 5
+METHODOLOGY 5
+3.1 Site Survey for Population Counting 6
+3.2  Demand Calculation 6
+3.3 Check for Supply 6
+3.4 Report Writing 6
+CHAPTER FOUR 7
+RESULT AND DISCUSSION 7
+CHAPTER 5 18
+CONCLUSION 18
+REFERENCES (Binnie, 2002) 19
+TABLE OF FIGURES
+Figure 1 Typical flow diagram on essentials of water supply engineering 1
+Figure 2 Components of water supply system 10
+Figure 3 Satellite view of Water Supply Area 14
+Figure 4 Treatment area of Water Supply 15
+Figure 5 Flowchart of Methodology 5
+Figure 6 Existing layout of Roughing Filter 9
+Figure 7 Section at X-X of Roughing Filter 9
+Figure 8 New Roughing Filter of 9m*6m*1.2m Design 13
+Figure 9 Section at X-X of New Roughing Filter 13
+Figure 10 New Roughing Filter of 9m*5m*1.2m Design 14
+Figure 11 Section at X-X of New Roughing Filter 15
+Figure 12 Existing Treatment Area 15
+Figure 13 New Layout of treatment area with new Roughing filter of 9m*6m*1.2m 16
+Figure 14 New Layout of treatment area with new Roughing filter of 9m*5m*1.2m 17
+LIST OF  TABLE
+Table 1 Discharge calculation through MIP system 2
+Table 2 Discharge Calculation in River 8
+Table 3 Water Availability Calculation throughout year by MIP method 8
+LIST OF ABBREVIATION
+Symbols and Abbreviations
+Meaning
+BCRE
+Bachelor of Civil and Rural Engineering
+cu.m
+Cubic  metre
+lpd
+Litre  per day
+lpcd
+Litre  per capita demand
+m
+metre
+PU
+Pokhara University
+SOE
+School of Engineering
+CHAPTER ONE
+INTRODUCTION
+1. 1  Background
+A water distribution system is a part of a water supply network with components that carry
+potable water from a centralized treatment plant or wells to consumers to satisfy
+residential, commercial, industrial, and firefighting requirements. The purpose of the water
+supply and distribution system  is  to deliver water to consumers with appropriate quality,
+quantity, and pressure. A distribution system is used to describe collectively the facilities
+used to supply water from the source to the point of usage. The sources from where water
+can be supplied and distributed can be classified as surface water, rainwater, underground
+water, and so on. In municipal water systems, water is withdrawn from the water source
+and treated before it is pumped to our homes and businesses. After treatment, municipal
+water systems distribute water to homes and businesses in large pipes called water mains
+that are usually buried under our roads and sidewalks. With water supply and distribution
+there obviously comes along a good distribution system. During water supply, the quality
+of water shouldn’t deteriorate. The system also should be capable of supplying water at all
+intended places with sufficient pressure heads. The water supply and distribution system
+decide whether the availability of water in certain areas is sufficient good or not. The
+distribution pipes are generally laid below the road pavements. This project is taken up as
+people are still facing many problems to get the proper supply of water in our country even
+in the main city areas. The water supply system deteriorates if it’s not planned or designed
+properly beforehand thinking about the possible rate of population growth.
+Figure  1  Typical flow diagram on essentials of water supply engineering
+1.2  Components of Water Supply System
+A water supply system consists of several key components that work together to provide potable water to consumers. These include the source of water, treatment facilities, storage reservoirs, and a distribution network. The detailed breakdown of components of water supply system is given below:
+1.2. 1 .  Source:
+This is the initial location where water is obtained. It can be surface water (like rivers or lakes) or groundwater (from wells).
+▪Surface Water:  Rivers, lakes, and reservoirs are common surface water sources. These sources are often subject to pollution and require treatment.
+▪Groundwater:  Aquifers, underground layers of rock that hold water, are another vital source. Wells are used to extract groundwater.
+▪Other Source:  Rainwater harvesting and desalination (removing salt from seawater) can also be used, though they are less common in large-scale systems.
+1.2. 2. Intake structures
+This structure is used to withdraw water from the source. An intake structure is a crucial component in a water supply system, acting as the interface between the water source and the convey a nce system. It's designed to safely withdraw water while preventing debris, sediment, and other undesirable materials from entering the system. Key components include inlet screens, gates, valves, and sometimes sedimentation chambers, all working together to ensure a clean and reliable water supply.
+Purpose
+The primary function of an intake structure is to withdraw water from a source (river, lake, reservoir, etc.) and deliver it to the treatment plant or distribution network.
+Key Components
+▪ Inlet Screens/Trash Racks: These are designed to prevent large debris like logs, branches, and trash from entering the system.
+▪ Gates and Valves: These control the flow of water into the system and can be used for maintenance purposes.
+▪ Sedimentation Chambers: In some cases, sedimentation chambers are included to allow heavier particles to settle out before the water is further processed.
+▪ Conveyance System: This refers to the pipes or channels that carry the water from the intake structure to the treatment plant.
+Types of Intake Structures
+▪ River Intakes: Often involve intake towers or submerged structures to access water from rivers, which can have varying water levels.
+▪ Lake Intakes: Can be submerged structures or intake towers, depending on the depth and characteristics of the lake.
+▪ Reservoir Intakes: Typically located near the dam or on the reservoir slopes, with access provided by footbridges or other means.
+▪ Canal Intakes: Simple structures located on the bank of a canal.
+1.2. 3. Collection Chamber:
+Water supplies may be drawn from a single source or several different ones. The collection chamber is built at or near the intake site to collect water from one or more sources. When the demand for water does not fulfill by a single source, multiple sources are tapped and it is provided so that it prevents the backflow of water from one source to another. The collection chamber also breaks pressure forming a new static pressure. CC also performs as segregation of heavier particles and floating materials from raw water. Inlet, outlet, overflow, washout mechanisms are kept in the chamber.
+1.2. 4. Pumping Stations
+These facilities use pumps to move water from lower to higher elevations or over long distances, particularly when gravity is not sufficient. In water supply systems, pumps are crucial for lifting and transporting water from sources to distribution networks. They work by creating pressure differences that drive the water flow. Centrifugal pumps, which use rotating impellers, are common for their high flow rates and suitability for various fluids. Positive displacement pumps, known for constant flow rates, are used for high-pressure, low-flow applications.
+Types of Pumps
+▪ Centrifugal Pumps: These are widely used in water supply systems due to their ability to handle a wide range of flow rates and pressures. They work by accelerating water outwards from the center using a rotating impeller.
+▪ Positive Displacement Pumps:  These pumps deliver a fixed volume of water with each rotation or cycle, making them ideal for applications requiring precise flow control, even at high pressures.
+Key Components and Function
+▪ Impeller: The rotating component that imparts velocity and pressure to the water.
+▪ Casing: The housing that contains the impeller and other pump parts, directing the water flow.
+▪ Suction and Discharge: Suction pipes draw water into the pump, while discharge pipes carry the pressurized water to the distribution system.
+▪ Valves: Control the flow and pressure of water within the system.
+▪ Motors: Provide the mechanical energy to drive the pump.
+1.2. 5. Distribution Chamber:
+To split the supply network into manageable sub-systems serving a lesser number of public tap stand-post, a distribution chamber should be provided. It also facilitates the division of flow in the distribution sub-systems. The respective flow in each sub-system will be carried by separate pipelines from each decentralized storage tank. From the hydraulic point of view, water can be distributed with reasonable accuracy by providing a distribution chamber. It breaks incoming water pressure into the atmospheric pressure forming a new static water level.
+1.2. 6. Transmission Mains:
+These large pipes carry water from the source or treatment plant to storage reservoirs or directly to the distribution network. Transmission mains are a critical component of a water supply system, responsible for transporting large volumes of water, either raw or treated, from the source (like a reservoir or treatment plant) to the distribution network or storage facilities. They are the largest pipes in the system and are designed to handle high flow rates over considerable distances.
+Purpose
+▪ Conveying Water: Transmission mains act as the "highways" for water, moving it from the source (e.g., a river, well, or treatment plant) to areas where it will be used.
+▪ Raw and Treated Water: They can carry either raw, untreated water to treatment facilities or treated water to storage reservoirs or directly into the distribution system.
+▪ Connecting Key Points: They link the water source, treatment plants, and storage facilities, ensuring a continuous and reliable water supply.
+Key Characteristics
+▪ Large Diameter Pipes: Transmission mains are typically the largest pipes in the water supply system, capable of handling significant flow rates.
+▪ Long Distances: They often span considerable distances, conveying water over considerable lengths.
+▪ High Pressure: Depending on the system, they can operate under high pressure, especially when pumping water to elevated storage or long distances.
+▪ Materials: Common materials include concrete, ductile iron, steel, and GRP/GRE pipes.
+▪ No Distribution: Transmission mains are primarily for transport and do not distribute water directly to individual consumers.
+Operations and Maintenance:
+Optimal Utilization:
+Operations and maintenance focus on ensuring the system operates efficiently, with minimal losses and at the lowest possible cost.
+Monitoring and Control:
+District Metering Areas (DMAs) can be used to monitor water usage and losses within the transmission system.
+Regular Inspections:
+Regular inspections and maintenance are crucial to identify and address potential issues like leaks, corrosion, or damage.
+System Integrity:
+Maintaining the physical, hydraulic, and water quality integrity of the transmission mains is essential for a reliable water supply.
+1.2. 7. Interruption chamber [IC]:
+A chamber provided in the transmission main to break high pressure without a float valve is called Interruption Chamber. The function of these chamber is to release high pressure or convert into atmospheric pressure forming the new static water level. A float valve is provided in BPT whereas IC is without afloat, through the function of both is the same.
+1.2. 8. Treatment Plants:
+Water treatment plants purify the water by removing contaminants, ensuring it meets safety standards for drinking. A water treatment plant is a crucial component of a water supply system, responsible for purifying raw water from various sources to make it safe for consumption. It employs a series of physical, chemical, and biological processes to remove impurities and contaminants. Key components include pretreatment, core treatment (filtration, sedimentation, etc.), and disinfection. Auxiliary equipment such as pumps, storage tanks, and control systems are also essential parts of the plant.
+Key Components and Processes:
+▪ Raw Water Source: This is where the water originates (e.g., river, lake, reservoir).
+▪ Intake Structure: A mechanism to draw water from the source.
+▪ Pre-treatment: This stage removes large debris and suspended solids. Processes may include      screening, coagulation, and flocculation.
+▪ Coagulation: Chemicals (like alum) are added to destabilize suspended particles.
+▪ Flocculation: Gentle mixing to clump the destabilized particles into larger, heavier flocs.
+Sedimentation: The water flows into basins where heavier flocs settle to the bottom.
+▪ Filtration: The water passes through layers of sand, gravel, or other media to remove remaining suspended solids and some microorganisms.
+▪ Disinfection: A final step to kill any remaining harmful bacteria or viruses using chlorine, UV light, or other methods.
+▪ Clear Water Reservoir: Treated water is stored here before distribution.
+▪ Distribution System: Pipes, pumps, and other infrastructure that deliver the treated water to consumers.
+▪ Sludge Handling: Systems to manage and dispose of the removed solids and sludge.
+▪ Laboratory: Facilities for water quality testing and monitoring.
+▪ SCADA System: Supervisory Control and Data Acquisition system for monitoring and controlling plant operations.
+▪ Valves and Piping: Essential for controlling water flow throughout the plant.
+▪ Chemical Storage and Dosing: For chemicals used in the treatment processes.
+▪ Backwash System: For cleaning the filters.
+▪ Power Supply: Essential for operating pumps, motors, and other equipment.
+1.2. 9. Storage Reservoirs:
+These reservoirs, which can be elevated tanks or ground-level facilities, store treated water for later distribution. Storage reservoirs are crucial components of a water supply system, serving multiple purposes like balancing fluctuating water demand, providing emergency water, and maintaining water pressure. They can be categorized as either surface reservoirs (ground or non-elevated) or elevated reservoirs, each with specific design considerations. These reservoirs store treated water for domestic, industrial, and fire-fighting purposes, ensuring a reliable and consistent water supply.
+Types of Storage Reservoirs
+▪ Surface Reservoirs:
+These are typically rectangular or circular and located at ground level. They can be supplied by gravity flow or pumping, with pumping minimized to reduce costs. They often have multiple compartments to allow for maintenance and cleaning while still maintaining supply.
+▪ Elevated Reservoirs (Tanks/Towers):
+These are constructed at higher elevations, often on hills or supported by towers, to provide sufficient water pressure in the distribution system. They can be made of steel, concrete, or other materials.
+▪ Distribution Reservoirs:
+These reservoirs hold treated water and are essential for equalizing demand fluctuations, maintaining pressure, and providing emergency storage. They typically include balancing storage, breakdown storage, and fire storage.
+Functions of Storage Reservoirs
+▪ Demand Equalization:
+Reservoirs store water during periods of low demand and release it during peak demand, ensuring a consistent water supply.
+▪ Emergency Storage:
+They provide a reserve of water for  fire fighting , equipment failures, or power outages, preventing interruptions to service.
+▪ Pressure Maintenance:
+Elevated reservoirs help maintain adequate water pressure in the distribution system, particularly in areas with high elevation or long distances.
+▪ Fire Storage:
+Reservoirs can be designed to provide a specific volume of water for firefighting purposes.
+▪ System Relief Valve:
+They can act as a relief valve on a system supplied by pumping, preventing pressure surges.
+▪ Reduction in Main Size:
+With adequate storage, the size of distribution mains can be reduced, leading to cost savings.
+Key Considerations
+▪ Capacity:
+The storage capacity of a reservoir is determined by the demand patterns, fire flow requirements, and the need for emergency storage.
+▪ Location:
+The location of a reservoir is crucial for effective pressure management and access to the distribution system.
+▪ Material and Construction:
+The choice of materials and construction techniques will depend on the size, location, and purpose of the reservoir.
+▪ Maintenance:
+Regular cleaning and maintenance are necessary to ensure the quality and reliability of the stored water.
+1.2. 10. Control Valves:
+These are essential appurtenances provided in the pipelines. There are various valves used for different purposes like to control and regulate the flow of water, pressure releasing valve, air relief valve, wash out valves etc.
+1.2. 11. Valve Chamber:
+It is the chamber constructed to protect and prevent the valves that are used in the water supply project. Various valves  eg.  Inlet, outlet,  airrelease  valve, washout valve  etc  should be kept inside the chamber called the valve chamber. The valve chamber is provided with cover and must be avoided to fill with water.
+1.2. 12. Distribution Network:
+This network consists of pipes of various sizes (distribution mains and service lines) that carry water from reservoirs to individual properties.
+Pipeline Distribution Networks
+Pipeline distribution networks are aimed at design of suitable routes for piping. It is very
+important for proper water pressure, capital cost and operation and maintenance cost.
+Different types of networks are adopted looking to the pressure requirement, operation and
+maintenance (O&M) strategy adopted, cost parameter and overall length of distribution
+system.
+a. Dead end distribution system
+In such system, sub main pipes are connected at right angles from main pipeline
+and branch pipes are connected to sub mains at right angles. This system is easy to
+lay. However, in case of failure in pipeline, it will be difficult to supply water to the
+area ahead of affected area.  Also  pressure at the tail end will be low compared to
+other area and there will be stagnation of water.
+b. Grid Iron System
+In such system; main, sub main and branch pipes are interconnected to each other. A grid
+system is laid. Here, total length of pipeline required is high, but this helps in
+equitable water pressure. Also, blockage of pipes in one area does not affect the
+supply in the rest of area as there are multiple supply points to any area. This will
+also help in avoiding water stagnation. The system required higher number of�
+valves.
+c. Ring System
+The whole system is enclosed by main pipeline in radial or rectangular shape. Smaller areas are enclosed by sub main pipeline. In case of failure of system, very small area will be affected. The area ahead of affected area can get water from other point. The system requires higher number of valves. Here water can be supplied to any point from two directions.
+d. Radial System
+The area is divided into different zones. The water is pumped into the distribution reservoir kept in the middle of each zone and the supply pipes are laid radially ending
+towards the periphery.
+1.2. 13. Break Pressure Tank [BPT]
+A small tank specifically built to break the hydrostatic pressure in the distribution line is known as break pressure tank. These are the tanks or a chamber provided in the rural water supply distribution system to overcome the failure by the burst of pipes due to excessive pressure. The function of the BPT is releasing high pressure into atmospheric pressure. Inlet, outlet, overflow, washout, float valve mechanisms are kept in BPT.
+1.2. 14. Public Stand Post:
+Public stand post is the last component of the water supply system from where consumes collect water to fulfill their household demand in rural areas. As residents of rural areas cannot afford private connections and also due to scattered households in the area a stand post is provided to serve 7 to 10 households. The public stand post is the most frequently visited component so that it should be located at a public inviting place in sunny areas with the provision of proper drainage.
+Figure  2  Components of water supply system
+1. 3  Basic Principles of Water Supply Distribution System
+• The quality of water should not get deteriorated in the distribution pipes.
+• The Supply system should be capable of supplying water at all the intentional places with
+sufficient pressure heads.
+• It should be capable of supplying the needful amount of water during fire–fighting.
+• The pipe layout should be such that no consumer would be without a water supply, during
+the repair of any section of the system.
+• All the pipes in the distribution system should be preferably laid one meter away or above
+the sewer lines.
+• The system of pipes should be fairly watertight to keep losses due to leakage to a
+minimum.
+1. 4  Methods of water distribution
+For efficient distribution system adequate water pressure required at various parts
+depending upon the level of source, topography of the area and other local conditions the
+water may be forced into distribution system by different ways. Different methods of
+distributions are given below:
+• Gravity System
+• Pumping System
+• Combined System
+1. 5  History of water supply and distribution in Nepal
+Water has always been an integral part of Nepal’s socio–cultural, religious, and economic fabric. Reflecting on Water Nepal: A Historical Perspective, how deeply embedded water management traditions are in the country’s history, stretching back centuries. In ancient times, during the  Kirat ,  Lichhavi , and  Malla  periods, communities developed sophisticated and sustainable water systems such as stone spouts - dhunge  dharas _, ponds, wells, and canals. These were not just engineering feats but also carried religious and social importance. Particularly during the  Malla  era, water infrastructure flourished, often funded and managed by kings, village leaders, and even commoners. Providing access to water was seen as an act of religious merit, and festivals like  Sithi  Nakha  demonstrated the strong tradition of communal cleaning and maintenance of these sources. This strong community participation made water governance inclusive and culturally significant.
+The Shah and Rana periods marked a shift toward centralized efforts and the beginnings of modern water infrastructure. The introduction of piped water systems by Bir  Shumser  in the late 19th  century,.  However, it was only after 1950, with the fall of the Rana regime and the advent of democratic governance, that Nepal embarked on formal, state–led development planning. The introduction of Five–Year Plans starting in 1956 brought structured development to the water sector, later complemented by Three–Year Interim Plans. The creation of the Department of Water Supply and Sewerage (DWSS) 1972 institutionalized national efforts, while international agencies such as UNICEF, ADB, JICA, and FINNIDA played critical roles in funding and technical support.
+These planned efforts led to a significant increase in water supply and sanitation coverage, reaching 86% and 82% respectively by 2018. Water quality issues, such as arsenic contamination in the  Terai  and rural areas and bacterial pollution in urban supplies, continue to threaten public health. Functionality of systems is also a major concern, with surveys indicating that a large proportion of drinking water projects are only partially functional. Additionally, the absence of a centralized regulatory authority, insufficient technical capacity, and the impacts of climate change including drying springs and increased disaster risks pose serious threats to the sustainability of water resources.
+Urbanization has brought its own complications, especially in areas like the Kathmandu Valley, where water demand has far exceeded supply. Projects like the  Melamchi  Water Supply Project were initiated to address chronic shortages, but delays and institutional weaknesses have hampered progress. The growing urban population and the rapid pace of infrastructure development require comprehensive water governance reforms, particularly in sanitation management, which still lags behind water supply in policy and implementation.
+1 . 6  Objectives
+1.6. 1  General  Objective:
+The general aim of our project is to fulfill the water demand of the target area, overcoming the limitations of the existing water supply infrastructure.
+1.6 .2  Specific Objectives:
+To assess the current and projected water demand of the community based on population and consumption trends.
+To design a  suitable water  reservoir if availability of water is not sufficient in river  to store the overflow in rainy season  or  to design suitable water treatment  structure  if it lacks sufficient treatment in a day.
+To ensure the designed system provides a reliable and sustainable solution for safe water distribution.
+1 . 7  Study Area
+The infrastructure development initiative in Pokhara Metropolitan City, specifically encompassing Wards 21,17 and 33, including  Bagmara  a major area for its supply, represents a collaborative endeavor between the Government of Nepal and the local municipal authorities. This project, designed in 2016 and completed in 2019, aims to address the pressing need for reliable water supply in the rapidly urbanizing regions of Pokhara.
+The project was meticulously planned to serve houses of Wards 17,21 , 33. This aligns with the broader objectives of the Pokhara Water Supply Improvement Project, which was initiated in 2016 and officially handed over in 2019. The initiative was significantly supported by Asian Development Bank a grant of NPR 3.5 billion 70% from the Nepal Government, 25% loan from the Town Development Fund and 5% from the water user committee with construction executed by  Tundi-Kankai-Mirtasanjibani  J/V Kathmandu.
+The study area of this project comprises the location within Pokhara Metropolitian- 33,Bagmara  that is currently experiencing an insufficient water supply due to the failure of an ongoing project to meet the required water demand. The existing infrastructure is either under-designed or lacks  the capacity to fulfill the daily water requirements of the population.  This area was selected based on its urgent need for a reliable and adequately designed water supply system. It represents a region where the demand for clean and safe water has been increasing due to population growth, but the existing infrastructure could not respond effectively.
+Figure  3  Satellite view of Water Supply Area
+Figure  4  Treatment area of Water Supply
+1.8  Limitations
+Some limitations of the study are:
+▪ Population survey of all benefitted houses were not carried out.
+▪ Past population records of the targeted was not known so future population was calculated only based on geometrical method.
+▪ Availability of water is checked based on MIP system due to lack of data.
+CHAPTER TWO
+LITERATURE REVIEW
+▪  (Nkwonta, 2009)  For design of roughing filter  t he void ratio of aggregates  has to be considered , which is the ratio of the volume of voids to the volume of solids, typically ranges from 30% to 45% for coarse aggregates and 40% to 50% for fine aggregates. These values can vary based on factors like aggregate shape, size, and packing.  40% can be considered for effective volume of water to be treated. And for horizontal flow filtration velocity ranges from  (0.3 – 1.5m/ hr ) and 0.75m/ hr  is considered for effective filtration.
+▪  (Maiyo, 2023)  Safe drinking water remains a major global challenge, particularly in rural areas of developing countries, where 80% of people without improved water access live. Unsafe water leads to WASH-related diseases and economic burdens. Slow sand filters (SSFs), also known as biological sand filters (BSFs), offer an effective, low-cost water treatment solution for these low-resource settings. SSFs improve water quality by removing suspended particles, dissolved organics, and microbial contaminants, thus reducing turbidity, bad taste, and odor. This also enables the use of affordable disinfection methods like chlorination.
+▪  (Verma, 2017)  Slow sand filtration (SSF) is a low-cost, effective water treatment method operating at a flow rate of 0.1–0.4 m³/h. It efficiently removes pathogens like E. coli, Giardia, and viruses, as well as turbidity, suspended solids, and toxic metals. The paper reviews SSF design, performance, and future research needs.
+▪  (Pokhrel, 1982)  The MIP (Monthly Incremental Precipitation) method is a regional hydrological method used in Nepal for estimating monthly streamflow, particularly in ungauged catchments. It utilizes non-dimensional hydrographs, which are derived for different regions of Nepal (typically 7 regions), and a single dry weather flow measurement (often in April) to predict the monthly flow for a specific location.�
+Month
+Coefficients
+January
+2.71
+February
+1.88
+March
+1.38
+April
+1
+May
+1.88
+June
+3.13
+July
+13.54
+August
+25
+September
+20.83
+October
+10.42
+November
+5
+December
+3.75
+Table  1  Discharge calculation through MIP system
+▪  (Punmia, 1995) Prior to the design of water supply scheme, it is necessary to forecast the future population of the community to be served.  Population Forecasting can be done by following methods:
+a.  Arithmetical increase method
+In this method it is assumed that the future increase in population is at a constant rate as the increase in population from decade to decade is assumed constant. This constant rate of increase in population in the future is taken as the average increase in population per decade during several past successive decades. This method gives lower values and is adopted for large cities to reach their maximum development (or already developed cities or old cities).
+P n  =  P o  +  n c
+b.  Geometrica l  increase  Met hod
+This method  is based on the assumption  that % increase in population per unit remains constant for each time and also known as uniform grow th method. This method usually gives higher results as compared to arithmetical increase method.  This method is suitable for a rapidly  growing or young city.
+P n  = P o (1+r %)^ n
+c. Incremental Increase method
+This method is improvements over the two methods a rith metical  and  geometrical. From previous census data the actual increase , then the  increment in an increase in each of those time units and the incremental increase per time unit  “ i ”  is calculated. The population in  t he next time unit is calculated by adding the present population the average increase 'c' plus the net incremental increase for that time units and so on.
+The result given by this method is somewhere between the result given by
+P n = P o +nc+n ((n+1)/ 2) i
+▪  (Neupane, 2021)  Water demand depends upon domestic demand, livestock demand, commercial demand, industrial demand. Moreover ,  it depends upon firefighting, losses and wastage.
+It is higher in developed countries and lesser in developing countries.
+a. Domestic demand
+This includes water which is required for private residence for drinking, cooking, bathing, washing of clothes and others.
+b. Livestock Demand
+c. Commercial and Institutional Demand
+d. Fire Demand
+Generally, it should not be more than 1  lpcd .
+CHAPTER 3
+Site Survey for Population Counting Demand Calculation Literature Review Water availability check in river Design of new treatment plant Check for supply Conclusion Result  And Discussion Check for Distribution system Water treatment volume check Design of reservoir to store overflow water Water treatment Sufficient No Yes Yes No Site Survey for Population Counting Demand Calculation Literature Review Water availability check in river Design of new treatment plant Check for supply Conclusion Result  And Discussion Check for Distribution system Water treatment volume check Design of reservoir to store overflow water Water treatment Sufficient No Yes Yes No METHODOLOGY
+Site Survey for Population Counting
+Demand Calculation
+Literature Review
+Water availability check in river
+Design of new treatment plant
+Check for supply
+Conclusion
+Result  And Discussion
+Check for Distribution system
+Water treatment volume check
+Design of reservoir to store overflow water
+Water treatment Sufficient
+No
+Yes
+Yes
+No
+Site Survey for Population Counting
+Demand Calculation
+Literature Review
+Water availability check in river
+Design of new treatment plant
+Check for supply
+Conclusion
+Result  And Discussion
+Check for Distribution system
+Water treatment volume check
+Design of reservoir to store overflow water
+Water treatment Sufficient
+No
+Yes
+Yes
+No
+Water availability Sufficient Water availability Sufficient
+Water availability Sufficient
+Water availability Sufficient
+Figure  5  Flowchart of Methodology
+3. 1  Site Survey for Population Counting
+▪  We surveyed  some of the houses benefitted by  Khanepani  to know the no of people living in a house and some data was collected from 33 no. ward office.
+3.2  Demand Calculation
+▪ By knowing the population from survey, future population was calculated using population forecasting methods.
+▪ Then according to guidelines various water demands were calculated.
+3.3 Check for Supply
+▪ At first, we went to  Fusre  Khola  (source) to calculate availability of water.
+▪ We marked an area and calculated discharge for the section.
+▪ Then we calculated yearly water availability through MIP system.
+▪ Water availability was sufficient so we moved to check water treatment volume.
+▪ There were two treatment plants; Roughing filter and Slow sand filter.
+▪ We measured all dimensions of both treatment plants.
+▪We found the problem in roughing filter.
+▪  So  we designed new roughing filter to meet the water demand.
+3.4 Report Writing
+After all the calculations we prepared a report including new roughing filter designs to meet the water demand.
+CHAPTER FOUR
+RESULT AND  DISCUSSION
+▪  During  Survey ,  we  got  th e population  data  in 33 ward no.  from ward office  to be 11670 living in  3150 houses .  For more precise surveying 50 houses provided us 197 people living. From these calculations we got 4 people in average living in house.
+▪  The number of houses benefitted by  Khanepani  was  1947 and 2 schools.
+▪ Present population  (P o ) = 1947*4=7788
+▪ For demand calculation, we firstly calculated the population of next 15 years ,
+By  Geometric Increase Method
+for  n  =  15 years
+On basis of Nepal population, rate of population is considered as 0.92%.
+P n = 8935
+As our study area is considered as semi urban area we are considering daily demand as 65  lpcd
+So domestic demand =  popn * 65lpcd
+=8935*65  litres  per day=580775  litres  per day
+=  580.775cu.m  per day
+Being a semi urban area every house has some  livestock ,
+Livestock demand = 20% of domestic demand
+= 20% *580775
+= 116155  lpcd
+Fire  demand  =  1% * domestic
+= 1% *580775
+= 5807.75  lpcd
+Institutional demand, 1 school consists of 1000 and another with 500  student
+So institutional demand = 1500*10
+= 15000  lpcd
+Total demand = 717737.75  lpcd
+Let’s consider daily demand as 720cu.m per day.
+▪ For water availability check,
+Firstly, we calculated discharge of river
+For Area of River
+Depth (m)
+Avg. Depth (m)
+Length (m)
+Area ( sq.m )
+0.29
+0.466636364
+22.5
+10.49931818
+0.55
+0.19
+0.35
+0.6
+0.712
+0.731
+0.7
+0.41
+0.37
+0.23
+For Velocity of river
+Distance (m)
+avg recorded time (s)
+velocity (m/s)
+Discharge ( cu.m /s)
+12
+7
+1.714285714
+17.99883117
+Table  2  Discharge Calculation in River
+▪ The discharge calculated was of June. Taking it reference discharge of other months were calculated using MIP system.
+Month
+Coefficients
+Discharge  ( cu.m /s)
+January
+2.71
+15.58365255
+February
+1.88
+10.81079955
+March
+1.38
+7.935586905
+April
+1
+5.750425294
+May
+1.88
+10.81079955
+June
+3.13
+17.99883117
+July
+13.54
+77.86075847
+August
+25
+143.7606323
+September
+20.83
+119.7813589
+October
+10.42
+59.91943156
+November
+5
+28.75212647
+December
+3.75
+21.56409485
+Table  3  Water Availability Calculation throughout year by MIP method
+▪ After discharge calculation we got to know that there is sufficient water supply in river.
+▪ Then heading to water treatment volume check.
+Roughing Filter Capacity and Detention time  Calculation
+Figure  6  Existing layout of Roughing Filter
+Figure  7  Section at X-X of Roughing Filter
+Length (l) = 20m
+Breadth (b) = 7m
+Depth of water level (d) = 1.2m
+Volume = l*b*d  = 20*7*1.2  = 168  cu.m
+Since roughing filter is filled with coarse and fine sand and gravel so assuming its void ratio of 40% then,
+Effective volume of water in roughing filter = 0.4*168 = 67.2  cu.m
+Again,
+The flow of water is horizontal in roughing filter.
+Assuming velocity of  0.75 m/ hr  (0.3 – 1.5m/ hr )
+Then, Area of chamber = 7*1.2 = 8.4  sq.m
+Q chamber  = Area* velocity = 8.4* 0.75  =  6.3  cu.m
+Total 4 chambers provided so,
+Q total  = 4* 6.3  =  25.2  cu.m / hr
+Detention time = Effective volume/ Q total  = 67.2/ 25.2  = 2 .667 hr  = 160 minutes
+Slow sand filter capacity and detention time calculation
+Fig: Existing layout of Slow Sand Filter
+Length (l) = 12m
+Breadth (b) = 12m
+Two chambers are provided
+The water from roughing filter is passed to slow sand filter.
+So  the volume of water in slow sand filter = 67.2  cu.m
+Filtration velocity of slow sand filter ranges from 0.1 – 0.4 m/ hr
+Assuming Velocity as 0.23 m/ hr
+Then,  Q unit  = l*b* velocity = 12*12*0.24 = 34.56  cu.m / hr
+Detention time = 67.2/34.56 = 1.94hr approximately equals to 2hr
+Supply of water in 1 day  at present
+With 20lps discharge from intake it takes about 56 minutes to fill up 67.2  cu.m  of water in roughing filter. And roughing filter takes about 160 minutes for treatment. But if we calculate properly it takes about 3.5  hr  for 67.2  cu.m  of water to be passed from intake to slow sand filter.
+In a day of 24 hour only 67.2*(24/3.5) = 460  lpd  of water can be treated and supplied to consumers which is less than required.
+After the infrastructure check and volume check we found that having only one roughing filter is stopping water to be supplied to the users.
+So  to fulfill the  remaining  demand  of 260cu.m per day of water  design of new roughing filter is required .
+Design of New Roughing Filter
+Case I
+Providing,
+Length = 9m
+Breadth = 6m
+Depth of water level = 1.2m
+Free board = 0.5m
+Total volume = 64.8  cu.m
+Taking 40% void ratio of aggregates,
+Effective volume = 25.92  cu.m
+The flow of water is horizontal in roughing filter.
+Assuming velocity of  0.75 m/ hr ,
+Then, Area of chamber =  6 *1.2 =  7.2  sq.m
+Q chamber  = Area* velocity =  7.2 * 0.75  =  5.4  cu.m
+Providing 3 chambers each of 3m
+Q total  =  3*5.4  =  16.2  cu.m / hr
+Detention time = Effective volume/ Q total  =  25.92/16.2  =  1.6hr = 96 minutes
+For discharge of 25.92  cu.m  of water with 20lps, it takes 22minutes. So, total time to treat  25.92  cu.m  of water will take 96+22 = 118 minutes approximately equal to 2hr. In 24hr period of time 25.92*12 = 311.04  cu.m  of water can be treated and supplied.
+Figure  8  New Roughing Filter of 9m*6m*1.2m Design
+Figure  9  Section at X-X of New Roughing Filter
+Case II
+Providing,
+Length = 9m
+Breadth = 5m
+Depth of water level = 1.2m
+Free board = 0.5m
+Total volume = 54  cu.m
+Taking 40% void ratio of aggregates,
+Effective volume = 21.6  cu.m
+The flow of water is horizontal in roughing filter.
+Assuming velocity of  0.75 m/ hr ,
+Then, Area of chamber =  5 *1.2 =  6  sq.m
+Q chamber  = Area* velocity =  6 * 0.75  =  4.5  cu.m
+Providing 3 chambers each of 3m
+Q total  =  3*4.5  =  13.5  cu.m / hr
+Detention time = Effective volume/ Q total  =  21.6/13.5  =  1.6hr = 96 minutes
+For discharge of 21.6  cu.m  of water with 20lps, it takes 18minutes. So, total time to treat 21.6  cu.m  of water will take 96+18 = 114 minutes approximately equal to 2hr. In 24hr period of time 21.6*12 = 259.2  cu.m  of water can be treated and supplied.
+Figure  10  New Roughing Filter of 9m*5m*1.2m Design
+Figure  11  Section at X-X of New Roughing Filter
+Layout Design
+Figure  12  Existing Treatment Area
+Figure  13  New Layout of treatment area with new Roughing filter of 9m*6m*1.2m
+Figure  14  New Layout of treatment area with new Roughing filter of 9m*5m*1.2m
+Among two alternative design cases one will be considered  ensuring efficiency, safety, and cost-effectiveness .
+CHAPTER 5
+CONCLUSION
+The final report of  “ UPGRADING OF WATER SUPPLY AND DISTRIBUTION SYSTEM OF NIRMALPOKHARI, BAGMARA, PUDI SANA SAHARI KHANEPANI ”  concludes that the  khanepani  lacks sufficient treatment structure to meet the demand. The roughing is capable to treat 460lpd per day which is not sufficient to  fulfill water demand in  Bagmara  area .  So ,  addition of new roughing filter is necessary. We designed new roughing filter with 260cu.m capacity of water per day and 310  cu.m  capacity of water per day. Among these two, one which is more suitable will be selected and designed.  Nobody should be deprived of basic water demand. If there are any problem the authority should look after the problem.
+REFERENCES  (Binnie, 2002)
+Al-Baidhani, J. H. (2016). Treatment of water and wastewater by using roughing filter technology of local materials.
+Binnie, C. M. (2002). Basic water treatment.
+Ellis, K. a. (1985). Slow sand filtration.  Critical Reviews in Environmental Science and Technology .
+Folwell, A. P. (1917). Water-supply engineering.  the designing and constructing of water-supply systems .
+Maiyo, J. K. (2023). Slow sand filters for the 21st century.  International journal of environmental research and public health .
+Neupane, S. (2021).  Water Supply Engineering (Environmental Engineering – I) .
+Nkwonta, O. a. (2009). Roughing filter for water pre-treatment technology in developing countries: A review.  International Journal of Physical Sciences .
+Pokhrel, P. (1982).  Simple Design of Hill Irrigation Projects in Nepal. Department of Irrigation, Nepal.
+Punmia, B. C. (1995).  Water supply engineering. Firewall Media.
+Verma, S. A. (2017). Slow sand filtration for water and wastewater treatment.  Environmental Technology Reviews .
