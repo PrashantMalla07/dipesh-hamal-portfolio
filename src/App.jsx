@@ -54,6 +54,15 @@ const skills = [
 
 const projects = [
   {
+    title: "Case Study of Current Status of Seti River Suspended Bridge",
+    description:
+      "Condition-focused case study reviewing the current status of the Seti River suspended bridge, including observations on structural service condition and practical maintenance concerns.",
+    location: "Seti River Corridor, Nepal",
+    tools: "Field Observation, Case Study Method, Structural Condition Review, Reporting",
+    image: "/assets/images/hero/civil-engineering-hero2.jpg",
+    document: "/assets/docs/seti-river-suspended-bridge-case-study.pdf"
+  },
+  {
     title: "Upgrading Water Supply and Distribution System",
     description:
       "Comprehensive engineering study to improve treatment and distribution reliability for Nirmalpokhari, Bagmara, and Pudi service areas.",
@@ -110,6 +119,13 @@ const projects = [
 ];
 
 const projectDocuments = [
+  {
+    title: "Case Study of Current Status of Seti River Suspended Bridge",
+    type: "PDF",
+    description:
+      "Project study document focused on the current bridge condition and findings.",
+    href: "/assets/docs/seti-river-suspended-bridge-case-study.pdf"
+  },
   {
     title: "Project Report",
     type: "DOCX",
@@ -188,10 +204,17 @@ const mapPoints = [
     detail: "Project Area - Distribution Planning",
     x: 420,
     y: 182
+  },
+  {
+    name: "Seti River Bridge",
+    detail: "Case Study Location - Current Status Assessment",
+    x: 380,
+    y: 148
   }
 ];
 
 const galleryImages = [
+  "/assets/images/hero/civil-engineering-hero2.jpg",
   "/assets/images/projects/image3.png",
   "/assets/images/projects/image4.png",
   "/assets/images/projects/image10.png",
@@ -313,7 +336,12 @@ function App() {
     <div className="app">
       <header className="topbar">
         <a className="brand" href="#hero">
-          Dipesh Bahadur Hamal
+          <img
+            src="/assets/images/profile/passport-photo.jpeg"
+            alt="Dipesh Bahadur Hamal"
+            className="brand-photo"
+          />
+          <span>Dipesh Bahadur Hamal</span>
         </a>
         <button
           type="button"

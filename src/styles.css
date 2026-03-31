@@ -80,6 +80,22 @@ main {
   font-family: "Merriweather", serif;
   font-size: 1.05rem;
   letter-spacing: 0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.brand-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 2px solid color-mix(in srgb, var(--primary), white 65%);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+.brand span {
+  white-space: nowrap;
 }
 
 .menu-btn {
@@ -903,6 +919,15 @@ textarea:focus {
 
   .hero-facts {
     justify-content: center;
+  }
+
+  .brand-photo {
+    width: 34px;
+    height: 34px;
+  }
+
+  .brand span {
+    font-size: 0.9rem;
   }
 
   .footer {
