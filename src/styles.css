@@ -399,25 +399,23 @@ h3 {
   gap: 0.65rem;
 }
 
-.image-open-btn {
-  padding: 0;
-  border: 0;
-  background: transparent;
-  cursor: zoom-in;
+.credential-proof {
+  position: relative;
   border-radius: 12px;
   overflow: hidden;
-}
-
-.credential-images img {
-  width: 100%;
-  border-radius: 12px;
   border: 1px solid var(--line);
 }
 
-.meta-list {
+.credential-proof img {
+  width: 100%;
+  display: block;
+}
+
+.credential-note {
   margin: 0.85rem 0 0;
-  padding-left: 1.1rem;
   color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 600;
 }
 
 .skills-grid {

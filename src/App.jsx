@@ -222,9 +222,7 @@ const galleryImages = [
   "/assets/images/projects/image12.png",
   "/assets/images/projects/image13.png",
   "/assets/images/projects/image14.png",
-  "/assets/images/projects/image9.png",
-  "/assets/images/credentials/nec-certificate.jpeg",
-  "/assets/images/credentials/nec-id-card.jpeg"
+  "/assets/images/projects/image9.png"
 ];
 
 const contactInfo = {
@@ -451,34 +449,24 @@ function App() {
             <aside className="card credentials reveal">
               <h3>Registration Credentials</h3>
               <div className="credential-images">
-                <button
-                  type="button"
-                  className="image-open-btn"
-                  onClick={() => setSelectedImage("/assets/images/credentials/nec-certificate.jpeg")}
-                >
+                <div className="credential-proof certificate">
                   <img
-                    src="/assets/images/credentials/nec-certificate.jpeg"
-                    alt="Nepal Engineering Council certificate"
+                    src="/assets/images/credentials/nec-certificate-fullblur.jpeg"
+                    alt="Nepal Engineering Council certificate (sensitive details masked)"
                     loading="lazy"
                   />
-                </button>
-                <button
-                  type="button"
-                  className="image-open-btn"
-                  onClick={() => setSelectedImage("/assets/images/credentials/nec-id-card.jpeg")}
-                >
+                </div>
+                <div className="credential-proof id-card">
                   <img
-                    src="/assets/images/credentials/nec-id-card.jpeg"
-                    alt="Nepal Engineering Council ID card"
+                    src="/assets/images/credentials/nec-id-card-fullblur.jpeg"
+                    alt="Nepal Engineering Council ID card (sensitive details masked)"
                     loading="lazy"
                   />
-                </button>
+                </div>
               </div>
-              <ul className="meta-list">
-                <li>Registered Engineer No: 97694</li>
-                <li>Subject: Civil & Rural Engineering</li>
-                <li>Issued by: Nepal Engineering Council</li>
-              </ul>
+              <p className="credential-note">
+                Personal identity information is intentionally blurred for privacy and theft prevention.
+              </p>
             </aside>
           </div>
         </section>
@@ -762,7 +750,7 @@ function App() {
             </form>
 
             <aside className="card reveal contact-info">
-              <h3>Direct Contact</h3>
+              <h3>Detailed Contact Information</h3>
               <p>
                 <strong>Email:</strong>{" "}
                 <a href={`mailto:${contactInfo.email}`}>{contactInfo.email}</a>
